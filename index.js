@@ -41,11 +41,3 @@ function actionApplyer(startingInteger, array) {
     })
     return num
 }
-
-
-// project review question => The main reason you would use an arrow function over a keyword function 
-
-// What is the relationship of context. If you need the function to have access to the same context thtat you define it in, you need to use an arrow function
-
-// static functions are equivalent to class methods in
-// functions defined on the prototype are equivalent to instance methods
